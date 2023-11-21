@@ -9,7 +9,7 @@
     ../../../../common/gpu/nvidia/prime.nix
     ../../../../common/pc/laptop
     ../../../../common/pc/laptop/ssd
-    ../edid
+    # ../edid
   ];
 
   # Still needs to load at some point if we want X11 to work
